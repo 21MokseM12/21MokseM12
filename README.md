@@ -12,3 +12,6 @@ I am software engineering student and Java/Kotlin developer
 - ⚡ **Фан-факты**
     - Мне пока что 22 года
     - Живу я в Санкт-Петербурге, но родом из Калуги
+
+
+some text 2 for some reason
