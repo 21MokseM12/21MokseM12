@@ -13,6 +13,3 @@ I am software engineering student and Java/Kotlin developer
     - Мне пока что 22 года
     - Живу я в Санкт-Петербурге, но родом из Калуги.
  
-
-
-ывывы
